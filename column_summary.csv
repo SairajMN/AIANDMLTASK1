@@ -1,0 +1,5 @@
+,dtype,unique,missing%,suggested_type
+Technology,object,10,0.0,high-cardinality
+Description,object,10,0.0,high-cardinality
+Year Introduced,object,8,0.0,categorical
+Company,object,9,0.0,categorical
