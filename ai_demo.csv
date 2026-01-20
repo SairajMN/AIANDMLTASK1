@@ -1,0 +1,11 @@
+Technology,Description,Year Introduced,Company
+Artificial Intelligence,"A broad field of computer science focused on creating machines that can perform tasks that typically require human intelligence.",1956,General
+Machine Learning,"A subset of AI that enables computers to learn and improve from experience without being explicitly programmed.",1959,Various
+Deep Learning,"A type of machine learning based on artificial neural networks with representation learning.",2012,Google
+Natural Language Processing,"A subfield of AI that focuses on the interaction between computers and humans through natural language.",1950s,IBM
+Computer Vision,"A field of AI that trains computers to interpret and understand visual information from the world.",1960s,MIT
+Reinforcement Learning,"A type of machine learning where an agent learns to make decisions by interacting with an environment.",2010s,DeepMind
+Generative AI,"AI systems that can generate new content, such as text, images, or music, based on training data.",2010s,OpenAI
+Robotics,"The branch of AI dealing with the design, construction, and operation of robots.",1960s,General
+Expert Systems,"AI programs that simulate the judgment and behavior of a human expert in a specific field.",1970s,Stanford
+Neural Networks,"Computing systems inspired by the biological neural networks that constitute animal brains.",1940s,Warren McCulloch
